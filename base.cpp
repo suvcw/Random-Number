@@ -17,7 +17,4 @@ int main()
 		count++;
 
 	} while (count < 7);
-	{
-
-	}
 }
